@@ -4,7 +4,7 @@ Using Deep Learning to detect cells infected with malaria
 
 ## Download the dataset
 
-If you're using a distribution of linux with wget installed, then download the repository for this project, and cd into the Dataset folder.
+If you're using a distribution of linux with ```wget ``` installed, then download the repository for this project, and cd into the Dataset folder.
 
 Then run :
 

@@ -4,6 +4,8 @@ Using Deep Learning to detect cells infected with malaria
 
 ## Download the dataset
 
+   ![Parasitized](https://github.com/tejaskashinathofficial/MalariaDetection/blob/master/assets/PM.png)                  ![Uninfected](https://github.com/tejaskashinathofficial/MalariaDetection/blob/master/assets/UM.png)
+
 You can download the dataset <a href="https://ceb.nlm.nih.gov/proj/malaria/cell_images.zip" target="_blank">here</a>.
 
 Or if you're using a distribution of linux with ```wget``` installed, then download the repository for this project, and cd into the Dataset folder.

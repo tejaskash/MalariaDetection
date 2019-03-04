@@ -40,3 +40,20 @@ And then to download the dataset:
 ```shell
 ./dataset.sh
 ```
+
+Create the following project structure in folder. The cell_images folder is the unzipped form of the dataset that you just downloaded.
+  ```bash
+  ├── cell_images
+  │   ├── Parasitized [6 entries exceeds filelimit, not opening dir]
+  │   └── Uninfected
+  ├── cnn
+  │   ├── __pycache__
+  │   │   ├── config.cpython-36.pyc
+  │   │   └── resnet.cpython-36.pyc
+  │   ├── config.py
+  │   └── resnet.py
+  ├── BuildDataset.py
+  ├── Prediction.py
+  └── TrainModel.py
+  ```
+

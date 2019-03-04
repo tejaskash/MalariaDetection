@@ -1,7 +1,8 @@
 # Deep Learning For Medical Images
-Using Deep Learning to detect malaria in thin blood smears. Through this repository you can learn how to train your own machine learning model using keras and tensorflow to detect malaria in images of blood semars.
+Using Deep Learning to detect malaria in thin blood smears. Through this repository you can learn how to train your own machine learning model using keras and tensorflow to detect malaria in images of blood smears.
 
-Malaria is a disease caused by the plasmodium parasite, which is a vector borne disease transmitted by the anopheles mosquito.
+
+Malaria is typically found in tropical and subtropical climates where the parasites can live. The World Health Organization (WHO) states that, in 2016, there were an estimated 216 million cases of malaria in 91 countries. In the United States, the Centers for Disease Control and Prevention (CDC) report 1,700 cases of malaria annually. Most cases  malaria develop in people who travel to countries where malaria is more common<sup><a href = "https://www.healthline.com/health/malaria" target = "_blank">[1]</a></sup>.
 
 
 ## Download the dataset

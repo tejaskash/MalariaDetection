@@ -402,6 +402,12 @@ Here is a visualization of how the loss decreased and accuracy imporved as we tr
 
 ![Plot](https://github.com/tejaskashinathofficial/MalariaDetection/blob/master/assets/plot.png)
 
+Here we can see that our model was trained for a total of 50 epochs.
+
+Each epoch tales approximately 40 minutes on a Quad core Intel® Core™ i5-7200U CPU @ 2.50GHz with Intel® HD Graphics 620 (Kaby Lake GT2) inbuilt graphics.
+
+Overall, the entire training process took around 33 hours.
+
 
 ## Testing our model and Getting a prediction
 
@@ -473,5 +479,9 @@ The code will load your model, and make a prediction on a batch of 16 random ima
 Here was my output,
 
 ![output](https://github.com/tejaskashinathofficial/MalariaDetection/blob/master/assets/output.png)
+
+## Summary
+
+Through this tutorial, you learnt how to apply deep learning to medical images. We trained our own model as an end-to end malaria classifier, and the final model was only 9.0MB in size and yeilded a final accuracy of almost 97% using 64 x 64 images. This could be combined with the tremendous increase in computational power of smartphones to create a cheap but incredibly easy to use and accurate malaria diagnostic tool to be used in rural areas. Early detection of malaria can help doctors to provide more aggressive and targeted treatments and hence save lives.
 
 
